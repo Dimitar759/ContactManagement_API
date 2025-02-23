@@ -1,0 +1,17 @@
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\bin\Debug\net8.0\Mapper.deps.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\bin\Debug\net8.0\Mapper.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\bin\Debug\net8.0\Mapper.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\bin\Debug\net8.0\Domain.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\bin\Debug\net8.0\DTO.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\bin\Debug\net8.0\Domain.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\bin\Debug\net8.0\DTO.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\Mapper.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\Mapper.csproj.Up2Date
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\Mapper.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\refint\Mapper.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\Mapper.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\Coding Assigment 1\ContactManagementAPI\Mapper\obj\Debug\net8.0\ref\Mapper.dll

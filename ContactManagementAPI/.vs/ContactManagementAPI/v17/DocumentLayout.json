@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56C29EFD-D02D-4A3E-A86A-3AC77C546326}|UnitTests\\UnitTests.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\unittests\\countryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C29EFD-D02D-4A3E-A86A-3AC77C546326}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\countryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C29EFD-D02D-4A3E-A86A-3AC77C546326}|UnitTests\\UnitTests.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\unittests\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C29EFD-D02D-4A3E-A86A-3AC77C546326}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7EBB-4DA2-4362-A602-DDA75836706C}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dataaccess\\interface\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7EBB-4DA2-4362-A602-DDA75836706C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interface\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C29EFD-D02D-4A3E-A86A-3AC77C546326}|UnitTests\\UnitTests.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\unittests\\companyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C29EFD-D02D-4A3E-A86A-3AC77C546326}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\companyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2313C172-A200-450C-9609-DDE341066E33}|Services\\Services.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\services\\implementation\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2313C172-A200-450C-9609-DDE341066E33}|Services\\Services.csproj|solutionrelative:services\\implementation\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922B3C69-4699-4C4D-A9F9-6861AEC0EDC6}|Mapper\\Mapper.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922B3C69-4699-4C4D-A9F9-6861AEC0EDC6}|Mapper\\Mapper.csproj|solutionrelative:mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dto\\contactdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|solutionrelative:dto\\contactdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA9D090-2DB9-4735-A2B7-B7FE771167E4}|Domain\\Domain.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA9D090-2DB9-4735-A2B7-B7FE771167E4}|Domain\\Domain.csproj|solutionrelative:domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|solutionrelative:dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2313C172-A200-450C-9609-DDE341066E33}|Services\\Services.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\services\\implementation\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2313C172-A200-450C-9609-DDE341066E33}|Services\\Services.csproj|solutionrelative:services\\implementation\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C29EFD-D02D-4A3E-A86A-3AC77C546326}|UnitTests\\UnitTests.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56C29EFD-D02D-4A3E-A86A-3AC77C546326}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B1FD7F-80C4-443C-9EF8-7E40D95BB821}|ContactManagementAPI\\ContactManagementAPI.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\contactmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B1FD7F-80C4-443C-9EF8-7E40D95BB821}|ContactManagementAPI\\ContactManagementAPI.csproj|solutionrelative:contactmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD28AA8-CFC3-4D53-A3CF-109116A0B12D}|Helpers\\Helpers.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD28AA8-CFC3-4D53-A3CF-109116A0B12D}|Helpers\\Helpers.csproj|solutionrelative:helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dto\\createcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|solutionrelative:dto\\createcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dto\\updatecontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|solutionrelative:dto\\updatecontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2313C172-A200-450C-9609-DDE341066E33}|Services\\Services.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\services\\implementation\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2313C172-A200-450C-9609-DDE341066E33}|Services\\Services.csproj|solutionrelative:services\\implementation\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2313C172-A200-450C-9609-DDE341066E33}|Services\\Services.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\services\\interface\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2313C172-A200-450C-9609-DDE341066E33}|Services\\Services.csproj|solutionrelative:services\\interface\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dto\\updatecountryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|solutionrelative:dto\\updatecountryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dto\\updatecompanyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|solutionrelative:dto\\updatecompanyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dto\\createcountryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|solutionrelative:dto\\createcountryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A3CD9-E906-4EF0-9858-B61FE2374C1E}|DTO\\DTO.csproj|solutionrelative:dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7EBB-4DA2-4362-A602-DDA75836706C}|DataAccess\\DataAccess.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\coding assigment 1\\contactmanagementapi\\dataaccess\\migrations\\20250222200601_controller and service for country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7EBB-4DA2-4362-A602-DDA75836706C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250222200601_controller and service for country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\UnitTests\\CountryServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\CountryServiceTests.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\UnitTests\\CountryServiceTests.cs",
+              "RelativeToolTip": "UnitTests\\CountryServiceTests.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:31:34.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\UnitTests\\CompanyServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\CompanyServiceTests.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\UnitTests\\CompanyServiceTests.cs",
+              "RelativeToolTip": "UnitTests\\CompanyServiceTests.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:22:40.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Domain\\Contact.cs",
+              "RelativeToolTip": "Domain\\Contact.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:18:05.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Services\\Implementation\\ContactService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\ContactService.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Services\\Implementation\\ContactService.cs",
+              "RelativeToolTip": "Services\\Implementation\\ContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:16:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\UnitTests\\UnitTests.csproj",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\UnitTests\\UnitTests.csproj",
+              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T18:15:20.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\UnitTests\\ContactServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\ContactServiceTests.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\UnitTests\\ContactServiceTests.cs",
+              "RelativeToolTip": "UnitTests\\ContactServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:12:56.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DataAccess\\Interface\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interface\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DataAccess\\Interface\\IContactRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interface\\IContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:57:00.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\ContactDetailsDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ContactDetailsDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\ContactDetailsDto.cs",
+              "RelativeToolTip": "DTO\\ContactDetailsDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:51:15.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Services\\Implementation\\CompanyService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Services\\Implementation\\CompanyService.cs",
+              "RelativeToolTip": "Services\\Implementation\\CompanyService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:14:51.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Services\\Interface\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Services\\Interface\\ICompanyService.cs",
+              "RelativeToolTip": "Services\\Interface\\ICompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:13:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250222200601_Controller And Service for Country.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DataAccess\\Migrations\\20250222200601_Controller And Service for Country.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250222200601_Controller And Service for Country.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DataAccess\\Migrations\\20250222200601_Controller And Service for Country.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250222200601_Controller And Service for Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:06:02.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Services\\Implementation\\CountryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\CountryService.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Services\\Implementation\\CountryService.cs",
+              "RelativeToolTip": "Services\\Implementation\\CountryService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:29:03.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Helpers\\DependencyInjectionHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\DependencyInjectionHelper.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Helpers\\DependencyInjectionHelper.cs",
+              "RelativeToolTip": "Helpers\\DependencyInjectionHelper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA8wCIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:20:22.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:59:53.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateCountryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\UpdateCountryRequestDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateCountryRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\UpdateCountryRequestDto.cs",
+              "RelativeToolTip": "DTO\\UpdateCountryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:54:53.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateContactRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\UpdateContactRequestDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateContactRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\UpdateContactRequestDto.cs",
+              "RelativeToolTip": "DTO\\UpdateContactRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:54:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateCompanyRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\UpdateCompanyRequestDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateCompanyRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\UpdateCompanyRequestDto.cs",
+              "RelativeToolTip": "DTO\\UpdateCompanyRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:53:49.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\CountryDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\CountryDto.cs",
+              "RelativeToolTip": "DTO\\CountryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:53:16.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateCountryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\CreateCountryRequestDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateCountryRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\CreateCountryRequestDto.cs",
+              "RelativeToolTip": "DTO\\CreateCountryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:52:50.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\ContactDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ContactDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\ContactDto.cs",
+              "RelativeToolTip": "DTO\\ContactDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:52:16.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateContactRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\CreateContactRequestDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateContactRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\DTO\\CreateContactRequestDto.cs",
+              "RelativeToolTip": "DTO\\CreateContactRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:51:50.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\ContactManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Coding Assigment 1\\ContactManagementAPI\\ContactManagementAPI\\Program.cs",
+              "RelativeToolTip": "ContactManagementAPI\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:04:53.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
