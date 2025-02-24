@@ -34,6 +34,19 @@ The Contact Management API is a .NET 8 Web API application designed to manage co
 - Install .NET 8 SDK  
 - Install SQL Server (or use an alternative database with appropriate configuration)  
 
+### Required NuGet Packages  
+
+- `Microsoft.EntityFrameworkCore`  
+- `Microsoft.EntityFrameworkCore.SqlServer`  
+- `Microsoft.EntityFrameworkCore.Design`  
+- `Microsoft.EntityFrameworkCore.Tools`  
+- `AutoMapper`  
+- `AutoMapper.Extensions.Microsoft.DependencyInjection`  
+- `Microsoft.Extensions.Logging`  
+- `xUnit`  
+- `Moq`  
+- `Swashbuckle.AspNetCore` (for Swagger API documentation)
+  
 ---
 
 ## API Endpoints  
