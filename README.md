@@ -69,7 +69,8 @@ The Contact Management API is a .NET 8 Web API application designed to manage co
 - **CompanyService**: Handles business logic for companies.  
 - **ContactService**: Handles business logic for contacts.  
 - **CountryService**: Handles business logic for countries.  
-- **IRepository**: Generic repository for CRUD operations.  
+- **IRepository**: Generic repository for CRUD operations.
+- **IContactRepository**: A reposotiry specifically for getting contacts with company and country
 
 ---
 
@@ -82,7 +83,7 @@ The Contact Management API is a .NET 8 Web API application designed to manage co
 
 ## Unit Testing  
 
-- Tests are located in the `UnitTests/` folder.  
+- Tests are located in the `UnitTests/` project.  
 - Uses **xUnit** and **Moq** for testing services.  
 
 ---
